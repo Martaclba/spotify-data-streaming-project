@@ -1,2 +1,5 @@
-spotipy==2.25.1
-python-dotenv==1.2.1
+spotipy
+python-dotenv
+pyspark
+jupyter
+streamlit
