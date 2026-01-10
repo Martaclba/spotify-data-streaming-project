@@ -2,4 +2,3 @@ spotipy
 python-dotenv
 pyspark
 jupyter
-streamlit
