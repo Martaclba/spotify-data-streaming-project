@@ -2,6 +2,9 @@
 data/raw/*
 data/processed/*
 
+# Spotify info
+.spotify*cache
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
